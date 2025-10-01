@@ -5,6 +5,8 @@ The program reads a triangle mesh representation of a sphere from a text file, a
 
 Credit: Special thanks to **Professor Yi-Jen Chiang** for guidance and resources provided for this project.
 
+https://github.com/user-attachments/assets/e5ef2762-441a-4f4a-bc33-3ad1579e470c
+
 ---
 
 ## Functionality Summary
