@@ -1,0 +1,19 @@
+Assuming you already followed the compilation/VS setup instructions on the course website, you would only need to do the following within Visual Studio,
+
+1) Open the solution provided in the folder
+2) If the following files from the folder are not already in the header and source file sections, add them:
+Source Files: InitShader.cpp, rotate-sphere-texture.cpp to Source Files
+Header Files: Angel-yjc.h, CheckError.h, mat-yjc-new.h, vec.h
+
+3) Run the code within rotate-sphere-texture.cpp with or without debugging.
+
+For reference, it will prompt you for the name of a text file containing the appropriate triangle mesh vertices for a sphere, the project contains the following .txt files included:
+
+- sphere.8.txt
+- sphere.128.txt
+- sphere.256.txt
+- sphere.1024.txt
+
+Enter one of them as a string input to execute the program.
+
+The above also assumes you have set up the appropriate paths for your Include and Library directories on Visual Studio with respect to OpenGL.
